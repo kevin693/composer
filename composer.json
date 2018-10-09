@@ -1,0 +1,12 @@
+{
+    "name": "kevin/untitled",
+    "authors": [
+        {
+            "name": "kevin",
+            "email": "kevin.ferreira@gmx.com"
+        }
+    ],
+    "require": {
+        "ehime/hello-world": "^1.0"
+    }
+}
